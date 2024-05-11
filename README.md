@@ -1,59 +1,22 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Personal Vacation</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-  <header>
-    <h1>Personal Vacation</h1>
-    <p>Aumente suas malas e diminua suas preocupações!</p>
-  </header>
+Personal Vacation - Aumente suas malas e diminua suas preocupações!
+Cansado de roteiros genéricos que não combinam com você? ✈️
 
-  <main>
-    <section class="hero">
-      <img src="hero-image.jpg" alt="Imagem de uma viagem paradisíaca">
-      <div class="hero-text">
-        <h2>Cansado de roteiros genéricos que não combinam com você?</h2>
-        <p>O Personal Vacation é o seu novo agente de viagens descolado que te ajuda a criar um roteiro personalizado e acessível para a viagem dos seus sonhos!</p>
-      </div>
-    </section>
+O Personal Vacation é o seu novo agente de viagens descolado que te ajuda a criar um roteiro personalizado e acessível para a viagem dos seus sonhos!
 
-    <section class="como-funciona">
-      <h2>Como funciona?</h2>
-      <ol>
-        <li>Informe o destino dos seus sonhos.</li>
-        <li>Escolha as datas da sua aventura.</li>
-        <li>Defina o seu orçamento para a viagem.</li>
-        <li>O Personal Vacation faz o resto!</li>
-      </ol>
-    </section>
+Basta informar:
 
-    <section class="beneficios">
-      <h2>Benefícios</h2>
-      <ul>
-        <li>Roteiro sob medida para você.</li>
-        <li>Dicas valiosas para economizar e aproveitar ao máximo sua viagem.</li>
-        <li>Transparência total nos gastos, sem surpresas desagradáveis.</li>
-        <li>Interface descontraída e fácil de usar.</li>
-      </ul>
-    </section>
+Destino: Qual paraíso você deseja explorar? ️
+Datas: Quando a aventura começa? ️
+Orçamento: Quanto você quer investir nessa experiência inesquecível?
+E o Personal Vacation faz o resto! ✨
 
-    <section class="chamada-para-acao">
-      <h2>Pronto para embarcar em uma aventura inesquecível?</h2>
-      <a href="[Link para o site ou repositório do projeto]" class="btn">Acesse o Personal Vacation agora mesmo!</a>
-    </section>
-  </main>
+Roteiro sob medida: Um plano personalizado que combina com seus interesses e estilo. ️
+Dicas valiosas: Economize e aproveite ao máximo sua viagem com as melhores dicas!
+Transparência total: Tenha controle total dos gastos e evite surpresas desagradáveis.
+Interface descontraída: Planejar sua viagem nunca foi tão divertido!
+Pronto para embarcar em uma aventura inesquecível? ✈️
 
-  <footer>
-    <p>&copy; 2024 Personal Vacation</p>
-    <ul class="redes-sociais">
-      <li><a href="[Link para o Facebook]" target="_blank"><i class="fab fa-facebook-f"></i></a></li>
-      <li><a href="[Link para o Instagram]" target="_blank"><i class="fab fa-instagram"></i></a></li>
-      <li><a href="[Link para o Twitter]" target="_blank"><i class="fab fa-twitter"></i></a></li>
-    </ul>
-  </footer>
-</body>
-</html>
+Acesse o Personal Vacation agora mesmo e prepare-se para as melhores férias da sua vida!
+
+
+#viagem #personalizada #acessível #agentediviagens #roteiro #planejamento #ferias #aventura #descanso #diversão
