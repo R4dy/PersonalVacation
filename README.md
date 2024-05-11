@@ -1,10 +1,27 @@
-# Personal Vacation - O Seu Agente de Viagens Descolado! 🛫
-Esse é um projeto criado para auxiliar a criar o roteiro de uma viagem adaptado ao seu orçamento!😁💸      
+# Personal Vacation: Aumente suas malas e diminua suas preocupações! 🗼🛫
+Cansado de roteiros genéricos que não combinam com você? ✈️
 
-Basta informar o destino, a data da viagem, o seu orçamento para a viagem e o agente irá criar um roteiro adaptado e irá apresentar de uma forma bem descontraída, mostrando no final os valores que você irá gastar e dando dicas valiosas. 🤩
+O Personal Vacation é o seu novo agente de viagens descolado que te ajuda a criar um roteiro personalizado e acessível para a viagem dos seus sonhos!
+# Simples e intuitivo 🌎
+Basta informar:
 
-# Venha planejar sua viagem de forma objetiva e descontraída! 
-🥰✈🗼⛱🌊
+Destino: Qual paraíso você deseja explorar? ️
+Datas: Quando a aventura começa? ️
+Orçamento: Quanto você quer investir nessa experiência inesquecível?
+E o Personal Vacation faz o resto! ✨
 
+# Roteiro sob medida 🏝🏞⛩
+
+Um plano personalizado que combina com seus interesses e estilo. ️
+
+# Dicas valiosas💸🤩
+
+Economize e aproveite ao máximo sua viagem com as melhores dicas!
+Transparência total: Tenha controle total dos gastos e evite surpresas desagradáveis.
+Interface descontraída: Planejar sua viagem nunca foi tão divertido!
+
+# Pronto para embarcar em uma aventura inesquecível? ✈️
+
+Acesse o Personal Vacation agora mesmo e prepare-se para as melhores férias da sua vida!
 
 
